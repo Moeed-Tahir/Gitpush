@@ -1,1 +1,1 @@
-# Gitpush
+This is the one paractice of pull a code and push a code Github
